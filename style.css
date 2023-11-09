@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(149, 151, 146);
+}
+
+/*Navbar*/
+nav {
+    background-color: coral;
+    padding: 25px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+nav a {
+    color: rgb(177, 244, 111);
+    font-size: 23px;
+    text-decoration: none;
+    margin-left:30px;
+}
+/*Main Content*/
+.container {
+    margin: 0 30px;
+
+}
+.img-box img {
+    width: 30%;
+    height: 300px;
+    margin-left: 10px;
+    border-radius:10px;
+}
+.img-box {
+    text-align: center;
+    border-radius: 20px;
+}
+.menu {
+    background-color: rgb(228, 191, 44);
+    padding: 0% 10px;
+}
+
+/*Footer*/
+footer {
+    background-color: rgb(58, 230, 135);
+    margin-top: 20px;
+    padding:20px;
+}
+.nav-link a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0 15px;
+}
+.icon .bi {
+    color: rgb(241, 152, 63);
+    font-size:30px;
+    margin:0 20px;
+}
